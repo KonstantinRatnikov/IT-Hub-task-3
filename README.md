@@ -21,5 +21,10 @@ System.IdentityModel.Tokens.Jwt 7.0.3
 
 Для стилей испольтзован CSS-фреймворк Bootstrap
 
+Необходимо устанвить:
+
+npm install react-bootstrap bootstrap
+
+npm install --save react-router-dom
 
 База данных microsoft sql server
